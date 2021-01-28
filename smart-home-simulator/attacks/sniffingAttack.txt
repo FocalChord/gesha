@@ -1,0 +1,4 @@
+Download Wireshark.
+Open the Wireshark Application.
+While the proof of concept is running and the smart home simulation is running.
+Analyse the network traffic data and ensure the encryption of data by looking at the raw data.
